@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "alias myalias='ls -la'" >> ~/.bashrc; source ~/.bashrc echo "Alias 'myalias' has been created"
